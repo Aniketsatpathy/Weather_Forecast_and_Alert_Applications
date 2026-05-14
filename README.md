@@ -290,7 +290,10 @@ Possible future upgrades:
 
 # Screenshots
 
-(Add your screenshots here later)
+## Demo Video
+
+[Watch the demo](https://github.com/Aniketsatpathy/Weather_Forecast_and_Alert_Applications/outputs/Weather_Forecast_demo.mp4)
+
 
 ---
 
