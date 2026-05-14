@@ -197,6 +197,51 @@ NEXT_PUBLIC_OPENWEATHER_API_KEY=your_api_key
 
 ---
 
+
+# Backend Setup
+The project also includes a lightweight Python backend for weather processing and API handling.
+Install Python Dependencies
+
+From the root project directory:
+```
+pip install -r requirements.txt
+```
+
+Run Backend Server
+Start the backend server using:
+```
+python main.py
+```
+The backend server will start locally and handle weather API requests and alert processing.
+
+# Running Full Project
+
+Terminal 1 — Backend
+```
+python main.py
+```
+
+Terminal 2 — Frontend
+```
+cd frontend
+```
+```
+npm run dev
+```
+
+# Application Flow
+```
+Frontend (Next.js)
+        ↓
+Python Backend
+        ↓
+OpenWeather API
+        ↓
+Processed Weather Intelligence
+        ↓
+Dynamic Forecast + Alert Engine
+```
+
 # Installation
 
 ## 1 Clone Repository
