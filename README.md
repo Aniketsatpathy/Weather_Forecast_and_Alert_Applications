@@ -292,7 +292,7 @@ Possible future upgrades:
 
 ## Demo Video
 
-[Watch the demo](https://github.com/Aniketsatpathy/Weather_Forecast_and_Alert_Applications/outputs/Weather_Forecast_Demo.mp4)
+[Watch the demo](https://github.com/Aniketsatpathy/Weather_Forecast_and_Alert_Applications/tree/main/outputs/Weather_Forecast_Demo.mp4)
 
 
 ---
